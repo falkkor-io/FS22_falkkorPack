@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="64">
+    <author>Falkkor</author>
+    <version>1.0.0.0</version>
+    
+    <title>
+        <en>Falkkor Pack</en>
+    </title>
+    
+    <description>
+        <en><![CDATA[My personal collection of mods for FS22.]]></en>
+    </description>
+    
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+    
+    <storeItems>
+        <storeItem xmlFilename="vehicles/arion660X.xml"/>
+        <storeItem xmlFilename="vehicles/axion960X.xml"/>
+        <storeItem xmlFilename="vehicles/lexion8900X.xml"/>
+        <storeItem xmlFilename="vehicles/carat140TDX.xml"/>
+    </storeItems>
+</modDesc>
