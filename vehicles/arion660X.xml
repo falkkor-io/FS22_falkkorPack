@@ -45,7 +45,7 @@
     <cropSensor>
         <cropSensorConfigurations>
             <cropSensorConfiguration name="$l10n_configuration_valueNo" price="0"/>
-            <cropSensorConfiguration name="$l10n_configuration_valueYes" price="14950">
+            <cropSensorConfiguration name="$l10n_configuration_valueYes" price="0">
                 <sensorLinkNode node="cropSensorTop" type="SENSOR_TOP"/>
                 <sensorLinkNode node="cropSensorLeft" type="SENSOR_LEFT">
                     <rotationNode rotation="0 -45 0"/>
