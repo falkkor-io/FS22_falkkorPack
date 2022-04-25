@@ -17,8 +17,12 @@
     <storeItems>
         <storeItem xmlFilename="vehicles/arion660X.xml"/>
         <storeItem xmlFilename="vehicles/axion960X.xml"/>
+        <storeItem xmlFilename="vehicles/xerion5000X.xml"/>
         <storeItem xmlFilename="vehicles/lexion8900X.xml"/>
         <storeItem xmlFilename="vehicles/carat140TDX.xml"/>
         <storeItem xmlFilename="vehicles/cargos9500X.xml"/>
+        <storeItem xmlFilename="vehicles/vario724X.xml"/>
+        <storeItem xmlFilename="vehicles/vario942X.xml"/>
+        <storeItem xmlFilename="vehicles/vario1050X.xml"/>
     </storeItems>
 </modDesc>
